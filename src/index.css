@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.login{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('C:\Users\risha\Downloads\MOVIEMANIA\movie_mania\src\Components\bgwall.jpg') center/cover no-repeat fixed; 
+}
